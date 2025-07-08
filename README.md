@@ -2,8 +2,6 @@
 
 A Flutter-based recipe browsing application that helps users discover meals based on different categories, mark favorites, and apply dietary filters like gluten-free, vegan, and lactose-free.
 
----
-
 ## Features
 
 - Browse meals by categories (e.g., Italian, Quick & Easy, Hamburgers)
@@ -17,16 +15,12 @@ A Flutter-based recipe browsing application that helps users discover meals base
 - Light and dark theme toggle
 - Responsive and smooth navigation experience
 
----
-
 ## Tech Stack
 
 - **Flutter** & **Dart**
 - **State Management**: setState (no external package)
 - **Routing**: Navigator 1.0
 - **Custom Widgets** and structured screens
-
----
 
 ## Screens
 
@@ -36,7 +30,6 @@ A Flutter-based recipe browsing application that helps users discover meals base
 - **Filters Screen**: Toggle switches for dietary preferences
 - **Favorites Screen**: View saved meals
 
----
 
 ## Getting Started
 
